@@ -1,0 +1,14 @@
+{
+  "name": "sistema-cadastro-api",
+  "version": "1.0.0",
+  "description": "API para gerenciar o cadastro de alunos e turmas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
